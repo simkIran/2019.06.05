@@ -1,4 +1,4 @@
-var a = 6;
+/*var a = 6;
 
 function test() {
     var a = 7;
@@ -11,4 +11,12 @@ function test() {
     alert(a);
 }
 test();
-alert(a);
+alert(a);*/
+
+function ornge(blueberry) {
+    if (blueberry > 10) {
+        var a = 5;
+    } else {
+        var a = 108;
+    }
+    orange(3);
