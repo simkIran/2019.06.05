@@ -11,7 +11,7 @@ function test() {
     alert(a);
 }
 test();
-alert(a);*/
+alert(a);
 
 function ornge(blueberry) {
     if (blueberry > 10) {
@@ -19,4 +19,4 @@ function ornge(blueberry) {
     } else {
         var a = 108;
     }
-    orange(3);
+    orange(3);*/
